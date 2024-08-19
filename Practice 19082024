@@ -1,0 +1,5 @@
+def sum(a, b):
+    return (a + b)
+
+a = int(input('https://blog.naver.com/csj066: '))
+b = int(input('Ehttps://blog.naver.com/csj066/223535555694: '))
